@@ -10,7 +10,5 @@ commandos:
 `key <AE10> { [         0, parenright, rightsinglequotemark, dead_abovering ] };`
 
 ## Correção do mapa de caracteres
-{
 `key <AE09> { [         9,  parenleft,   ordfeminine, dead_breve ] };`  
 `key <AE10> { [         0, parenright,     masculine, dead_abovering ] };`
-}
