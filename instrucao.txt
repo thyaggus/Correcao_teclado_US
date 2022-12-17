@@ -1,0 +1,10 @@
+cd /usr/share/X11/xkb/symbols
+sudo vim us
+
+configuração original d o telado US:
+key <AE09> { [         9,  parenleft, leftsinglequotemark, dead_breve ] };
+key <AE10> { [         0, parenright, rightsinglequotemark, dead_abovering ] };
+
+Correção
+key <AE09> { [         9,  parenleft,   ordfeminine, dead_breve ] };
+key <AE10> { [         0, parenright,     masculine, dead_abovering ] };
